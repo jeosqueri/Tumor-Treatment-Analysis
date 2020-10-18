@@ -11,7 +11,7 @@ In this project, I was tasked with examining the data from an animal study where
 
 Observations
 
-1) The correlation between mouse weight and average tumor volume for the Capomulin treatment was 0.84. This indiciates a fairly strong positive relationship between the two variables, where a greater weight was associated with a greater tumor volume. This suggests a relationship between weight and tumor voume, where heavier mice have larger tumors. This relationship should be further explored to see if this finding holds across different treatment conditions, and if weight could be a casual factor for tumor growth. 
+1) The correlation between mouse weight and average tumor volume for the Capomulin treatment was 0.84. This indiciates a fairly strong positive relationship between the two variables, where a greater weight was associated with a greater tumor volume. This suggests a relationship between weight and tumor voume, where heavier mice have larger tumors. This relationship should be further explored to see if this finding holds across different treatment conditions, and if weight could be a causal factor for tumor growth. 
 
 2) Out of the four treatments of interest, the Capomulin and Ramicane regimens resulted in the lowest tumor volume at the end of treatment. These two treatments appear to be more effective than Infubinol and Ceftamin, however the Infubinol treatment condition has one outlier that experienced a signifcant decrease in tumor volume compared to the other mice in that treatment group. Before ruling out Infubinol as a potential therapuetic, that outlier should be examined to see if there is an explanation for why that mouse had a much better treatment outcome. 
 
