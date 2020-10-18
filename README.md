@@ -58,7 +58,7 @@ Mouse Sex Distribution Pie Chart (Using Pyplot)
 Box Plot
 
 
-<img width="433" alt="boxplot" src="https://user-images.githubusercontent.com/69160361/96378714-2ff90380-114b-11eb-916c-73830b600990.png">
+<img width="443" alt="Screen Shot 2020-10-18 at 3 35 47 PM" src="https://user-images.githubusercontent.com/69160361/96386369-b0256600-1157-11eb-9732-416039e9284d.png">
 
 
 Line Plot 
