@@ -46,17 +46,18 @@ Charts
 ![Screen Shot 2020-12-31 at 1 09 43 PM](https://user-images.githubusercontent.com/69160361/103424460-a3ff5100-4b69-11eb-89df-60a01459f6a2.png)
 
 
-**Box Plot** *Final tumor volume across four most effective regimens*
+**Box Plot-** *Final tumor volume across four most effective regimens*
 
 ![Screen Shot 2020-12-31 at 1 09 55 PM](https://user-images.githubusercontent.com/69160361/103424486-d0b36880-4b69-11eb-9ea0-94bf1100da83.png)
 
 
-**Line Plot** *Tumor volume over time for mouse L509*
+**Line Plot-** *Tumor volume over time for mouse L509*
 
 ![Screen Shot 2020-12-31 at 1 10 07 PM](https://user-images.githubusercontent.com/69160361/103424515-f80a3580-4b69-11eb-8ec1-ac1228a4d275.png)
 
 
 **Scatter Plots** 
+
 *Capomulin Treatment: Mouse weight vs. Tumor volume*
 
 ![Screen Shot 2020-12-31 at 1 10 18 PM](https://user-images.githubusercontent.com/69160361/103424526-09ebd880-4b6a-11eb-8f9d-4cff2aa8ec6b.png)
