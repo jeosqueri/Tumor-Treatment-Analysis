@@ -33,8 +33,7 @@ Summary Table (Using Aggregation)
 
 Bar Chart (Using Pandas)
 
-
-<img width="458" alt="PANDASbargraph" src="https://user-images.githubusercontent.com/69160361/96378650-c2e56e00-114a-11eb-85ed-210fe4ae8baa.png">
+![pandas_bar](https://user-images.githubusercontent.com/69160361/103424224-4e767480-4b68-11eb-8796-998f4678d8c2.png)
 
 
 Bar Chart (Using PyPlot)
