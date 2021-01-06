@@ -4,15 +4,6 @@ Project Overview
 ------
 In this project, I was tasked with examining the data from an animal study where 248 mice with SCC tumor growth were treated with a variety of drug regimens. These treatments were administered for 45 days and during that time tumor development/volume was observed and measured. The results provide valuable insight into the therapuetic potential of a variety of drug regimens and their efficacy.
 
-Observations
-------
-
-1) The correlation between mouse weight and average tumor volume for the Capomulin treatment was 0.84. This indiciates a fairly strong positive relationship between the two variables, where a greater weight was associated with a greater tumor volume. This suggests a relationship between weight and tumor voume, where heavier mice have larger tumors. This relationship should be further explored to see if this finding holds across different treatment conditions, and if weight could be a causal factor for tumor growth. 
-
-2) Out of the four treatments of interest, the Capomulin and Ramicane regimens resulted in the lowest tumor volume at the end of treatment. These two treatments appear to be more effective than Infubinol and Ceftamin, however the Infubinol treatment condition has one outlier that experienced a signifcant decrease in tumor volume compared to the other mice in that treatment group. Before ruling out Infubinol as a potential therapuetic, that outlier should be examined to see if there is an explanation for why that mouse had a much better treatment outcome. 
-
-3) The line chart showing the Capomulin treatment of mouse L509 shows that tumor volume decreased to it smallest amount around day 35, and then slightly increased in volume by the last day of treatment (day 45). Although Capomulin does seem to be an effective treatment and the mouse did experience significant tumor reduction, this change in tumor volume that occured during the last 10 days of treatment should be further examined. For example, it is possible that the treatment only needs to be administered for 35 days. The tumor volume vs. time point data for other mice in the Capomulin treatment group should be examined to see if this is a pattern.
-
 Charts
 ------
 
@@ -66,4 +57,13 @@ Charts
 
 ![Screen Shot 2020-12-31 at 1 10 30 PM](https://user-images.githubusercontent.com/69160361/103424554-428bb200-4b6a-11eb-901f-7db5c9499149.png)
 
+
+Observations
+------
+
+1) The correlation between mouse weight and average tumor volume for the Capomulin treatment was 0.84. This indiciates a fairly strong positive relationship between the two variables, where a greater weight was associated with a greater tumor volume. This suggests a relationship between weight and tumor voume, where heavier mice have larger tumors. This relationship should be further explored to see if this finding holds across different treatment conditions, and if weight could be a causal factor for tumor growth. 
+
+2) Out of the four treatments of interest, the Capomulin and Ramicane regimens resulted in the lowest tumor volume at the end of treatment. These two treatments appear to be more effective than Infubinol and Ceftamin, however the Infubinol treatment condition has one outlier that experienced a signifcant decrease in tumor volume compared to the other mice in that treatment group. Before ruling out Infubinol as a potential therapuetic, that outlier should be examined to see if there is an explanation for why that mouse had a much better treatment outcome. 
+
+3) The line chart showing the Capomulin treatment of mouse L509 shows that tumor volume decreased to it smallest amount around day 35, and then slightly increased in volume by the last day of treatment (day 45). Although Capomulin does seem to be an effective treatment and the mouse did experience significant tumor reduction, this change in tumor volume that occured during the last 10 days of treatment should be further examined. For example, it is possible that the treatment only needs to be administered for 35 days. The tumor volume vs. time point data for other mice in the Capomulin treatment group should be examined to see if this is a pattern.
 
